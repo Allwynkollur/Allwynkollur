@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Allwynkollur
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning cloud computing (AWS/reStart)
-- 💞️ I’m looking to collaborate on something related to linux
-- 📫 How to reach me ... Email: allwynemmanuel14@gmail.com
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Frontend Development tool
+- 📫 How to reach me ... Email: allwynkollur1@gmail.com
 
 <!---
 Allwynkollur/Allwynkollur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
